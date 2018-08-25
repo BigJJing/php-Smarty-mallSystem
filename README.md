@@ -8,17 +8,21 @@
 
 ![登陆后top变化](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E7%99%BB%E9%99%86%E5%90%8E.png)
 
-- 注册页面
+- 注册页
 
-![注册页面](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E6%B3%A8%E5%86%8C.png)
+![注册页](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E6%B3%A8%E5%86%8C.png)
 
-- 登录页面
+- 登录页
 
-![登录页面](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E7%99%BB%E5%BD%95.png)
+![登录页](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E7%99%BB%E5%BD%95.png)
 
-- 商品展示页面
+- 商品展示页
 
-![商品展示页面](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E6%9C%80%E6%96%B0%E5%95%86%E5%93%81.png)
+![商品展示页](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E6%9C%80%E6%96%B0%E5%95%86%E5%93%81.png)
+
+- 商品详情页
+
+![商品详情页](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.png)
 
 - 购物车
 
