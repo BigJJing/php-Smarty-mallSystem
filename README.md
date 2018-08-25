@@ -15,4 +15,4 @@
 - 订单页
 ![订单页](https://github.com/BigJJing/php-Smarty-mallSystem/blob/master/gitDisplay/%E8%AE%A2%E5%8D%95.png)
 
-### 使用说明
+### 图上完啦，发现并没有好说的。有什么疑问大家可以私聊一波哟
