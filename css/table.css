@@ -1,0 +1,99 @@
+/* CSS Document */
+.lk:link {
+	text-decoration: none;
+	color: #350407;
+}
+.lk:visited {
+	text-decoration: none;
+	color: #350407;
+}
+.lk:hover {
+	text-decoration: none;
+}
+.lk:active {
+	text-decoration: none;
+	color: #CCCCFF;
+}
+.first {
+	background-color: #FFC4C4;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFC4C4;
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+.left {
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-color: #FFC4C4;
+	border-right-color: #FFC4C4;
+	border-bottom-color: #FFC4C4;
+}
+.center {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #FFC4C4;
+	border-bottom-color: #FFC4C4;
+}
+.right {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #FFC4C4;
+	border-bottom-color: #FFC4C4;
+}
+.txt {
+	margin: 0px;
+	padding: 0px;
+	height: 18px;
+	width: 100px;
+	border: 1px solid #979797;
+}
+.shorttxt {
+	margin: 0px;
+	padding: 0px;
+	height: 18px;
+	width:50px;
+	border:1px solid #979797;
+}
+.langtxt {
+	margin: 0px;
+	padding: 0px;
+	height: 18px;
+	width: 200px;
+	border:1px solid #979797;
+}
+.areatxt {
+	margin: 0px;
+	padding: 0px;
+	border:1px solid #979797;
+}
+.btn {
+	font-size: 12px;
+	color: #350407;
+	background-color: #ffffff;
+	margin: 0px;
+	padding: 0px;
+	height: 18px;
+	width: 55px;
+	border: 1px solid #FFC4C4;
+}
+.sbtn {
+	font-size: 12px;
+	color: #ffffff;
+	background-color: #D73E17;
+	height: 30px;
+	width: 200px;
+	border: 1px solid #FFC4C4;
+}
+.all{
+	border:1px solid #979797;
+}

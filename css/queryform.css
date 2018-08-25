@@ -1,0 +1,39 @@
+/* **************订单页面********** */
+.ordertitle{
+	background: #ccc;
+	COLOR:#333;
+}
+.order table{
+	margin-top:30px;
+	font-size:14px;
+	color:#333;
+}
+.order table tr td{
+	border:1px solid #E2E2E2;
+}
+.stitle{
+	background: #e6e6e6;
+	font-size:14px;
+}
+.stitle font{
+	display: inline-block;
+	margin-left:10px;
+	margin-right: 10px;
+	color:#333;
+}
+.stitle span{
+	display: inline-block;
+	margin-left:10px;
+	margin-right: 10px;
+	color:#4D4D4D;
+}
+.sintro{
+	padding:10px;
+}
+.soperate a{
+	display: inline-block;
+	margin:0 20px;
+	color:#333;
+	text-decoration: underline;
+	letter-spacing: .8px;
+}

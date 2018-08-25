@@ -1,0 +1,77 @@
+/********** content  	*********/
+.content{
+	width:972px;
+	margin:0 auto;
+	margin-top:20px;
+}
+.atype{
+	height:436px;
+	width:972px;
+	margin:20px 0;
+}
+.shead{
+	margin-top:20px;
+	padding-bottom:20px;
+}
+.goods ul li{
+	float:left;
+	border:1px solid #ccc;
+	width:228px;
+	height:324px;
+	cursor:pointer;
+	margin:0 6px;
+	margin-top:10px;
+	margin-bottom:20px;
+	display:block;
+}
+.goods ul li:hover{
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.12);
+}
+.imgbox{
+	width:228px;
+	height:228px;
+}
+.infobox{
+	width:228px;
+	height:96px;
+}
+.infobox span{
+	display:block;
+	width:100%;
+	height:30px;
+	line-height:30px;
+	overflow:hidden;
+	font-size:16px;
+	color:#333;
+	margin:10px 0px;
+}
+.infobox h3{
+	font-size:30px;
+	color:#FA2A83;
+	font-weight:400;
+	display:inline;
+}
+.infobox h6{
+	display:inline;
+	color:#666;
+	text-decoration:line-through;
+	font-weight:100;
+}
+
+/* 推荐  */
+.alltype{
+	
+	
+}
+.alltype .goods{
+	border:1px solid red;
+}
+.alltype .goods ul li{
+	display:block;
+}
+.page{
+	width:100%;
+	height:30px;
+	background:#ccc;
+	left:50%;
+}

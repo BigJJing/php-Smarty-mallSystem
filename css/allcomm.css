@@ -1,0 +1,29 @@
+
+.onecomm{
+	margin:6px;
+	border:1px solid #ccc;
+	cursor:pointer;
+	margin-top:30px;
+}
+.onecomm:hover{
+	box-shadow: 0 0 6px rgba(0, 0, 0, 0.12);
+}
+.onecomm:hover a{
+	color:#8A064B;
+}
+.onecomm tr td a{
+	display:block;
+	width:228px;
+	height:40px;
+	font-size:16px;
+	line-height:40px;
+	overflow:hidden;
+}
+.onecomm tr td span{
+	font-size:30px;
+	color:#DB0A76;
+}
+.onecomm tr td font{
+	font-size:12px;
+	text-decoration:line-through;
+}

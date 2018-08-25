@@ -1,0 +1,143 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	text-decoration:none;
+}
+body{
+	width:100%;
+}
+.top{
+	width:100%;
+	height:30px;
+	background:	#F2F2F2;
+}
+.top_container{
+	width:972px;
+	height:30px;
+	margin:0 auto;
+	position:relative;
+}
+.top_container ul{
+	position:absolute;
+	right:0px;
+	top:0px;
+}
+.top_container ul li{
+	float:left;
+	padding:0 10px;
+	line-height:30px;
+	position:relative;
+	color:#d7d7d7;
+}
+.top_container ul li span{
+	color:#FA2A83;
+}
+.top_container ul li a{
+	color:#797979;
+}
+.top_container ul .li_buy{
+	margin-right:20px;
+}
+.icon_buy{
+	display:block;
+	background:url(../img/icons.png) -114px -200px;
+	width:12px;
+	height:28px;
+	position:absolute;
+	top:-1px;
+	right:-10px;
+
+}
+.head_logo{
+	position:relative;
+	width:972px;
+	height:100px;
+	margin:0 auto;
+}
+.logo{
+	height:100%;
+	width:522px;
+	float:left;
+}
+.logo img{
+	line-height:100px;
+}
+.logo span{
+	display:inline-block;
+	width:300px;
+	height:100px;
+	background:url(../img/icons.png);
+}
+.main_searchform{
+	position:absolute;
+	right:0px;
+	top:50%;
+	margin-top:-16px;
+	z-index:2;
+	width:357px;
+	height:32px;
+	border:1px solid #fa2a83;
+	border-radius:2px;
+	background-color:#fff;
+
+}
+.main_searchform input{
+	padding:2px 12px;
+	width:281px;
+	height:28px;
+	line-height:30px;
+	font-size:14px;
+	color:#333;
+	border:none;
+	border-top-left-radius:2px;
+	border-bottom-left-radius:2px;
+}
+.main_searchform a{
+	position:absolute;
+	top:0px;
+	right:0px;
+	padding-top:6px;
+	width:53px;
+	height:26px;
+	text-align:center;
+	background-color:#fa2a83;
+}
+.main_searchform a span{
+	background:url(../img/icons.png) -72px -208px;
+	width:19px;
+	height:22px;
+	display:inline-block;
+}
+.top_nav{
+	width:100%;
+	height:50px;
+	background:#FA2A83;
+}
+.top_nav div{
+	width:972px;
+	height:50px;
+	margin:0 auto;
+}
+.top_nav div ul li{
+	float:left;
+	width:20%;
+	line-height:50px;
+	text-align:center;
+	cursor:pointer;
+}
+.top_nav div ul li a{
+	display:block;
+	width:100%;
+	height:100%;
+	color:#fff;
+	font-size:16px;
+}
+.top_nav div ul li:hover{
+	background:#DB0A76;
+}
+.content{
+	width:972px;
+	margin:0 auto;
+	margin-top:20px;
+}

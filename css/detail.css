@@ -1,0 +1,42 @@
+.dtable{
+  margin:0 auto;
+  font-size: 14px;
+  color:#666;
+}
+.dtable tr td{
+  padding:0 5px;
+}
+.dtitle{
+  font-size:18px;
+  color:#333;
+}
+.dprice{
+  color:#999;
+  background: #e6e6e6;
+}
+.dprice .nprice{
+  display: block;
+}
+.dprice .nprice font{
+  color:#333;
+  text-decoration: line-through;
+}
+.dprice .vprice{
+  display: block;
+  margin-top:-10px;
+}
+.dprice .vprice font{
+  color:#FA2A83;
+  font-size:26px;
+}
+.dintro td{
+  border-bottom:1px solid #ccc;
+}
+.dbtn td input{
+  width:200px;
+  height: 50px;
+  border:none;
+  background: #FA2A83;
+  color:#fff;
+  font-size:16px;
+}

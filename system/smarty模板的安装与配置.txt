@@ -1,0 +1,6 @@
+Smatry 模板的安装与配置
+1.复制libs目录到system目录下
+2.在system目录下分别新建四个文件夹：templates , templates_c , configs , cache用于存储不同的文件。
+3.完成smarty模板的配置操作(建成类)，该类存储于system\system.smarty.inc.php文件中。
+4.实现数据库连接和操作类 ，存储于system\system.class.inc.php文件中。
+5.类创建成功后，在ysytem.inc.php中完成类的实例化。

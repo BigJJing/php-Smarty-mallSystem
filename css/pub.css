@@ -1,0 +1,23 @@
+/* CSS Document */
+.exam {
+	line-height: 20px;
+}
+
+.lk:link {
+	text-decoration: none;
+	color: #da0034;
+}
+.lk:visited {
+	text-decoration: none;
+	color: #da0034;
+}
+.lk:hover {
+	text-decoration: none;
+}
+.lk:active {
+	text-decoration: none;
+	color: #da0034;
+}
+.lk {
+	font-size: 12px;
+}
